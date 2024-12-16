@@ -1,0 +1,40 @@
+.income-list-container {
+  margin: 20px 0;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #e8f5e9;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-bottom: 15px;
+  color: #388e3c;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.income-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.income-item:last-child {
+  border-bottom: none;
+}
+
+.income-info {
+  display: flex;
+  gap: 15px;
+}
+
+.income-amount {
+  color: #388e3c;
+  font-weight: bold;
+}
