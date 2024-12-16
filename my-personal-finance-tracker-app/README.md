@@ -1,6 +1,12 @@
 ##Personal Finance Tracker
 
-> **Pages/Components** : Dashboard, Expense Entry, Income Entry, Monthly Report, and Settings.
+> **Pages/Components** :
+
+- [x] Dashboard
+- [x] Expense Entry
+- [x] Income Entry
+- [x] Monthly Report
+- [x] Settings.
 
 ✨ **Functionality**: Users can add or filter their expenses and income, and data updates automatically. Load the user's financial summary on the dashboard.
 
